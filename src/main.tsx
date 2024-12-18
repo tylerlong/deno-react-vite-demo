@@ -1,6 +1,8 @@
 import { Button } from "antd";
 import { useState } from "react";
 
+import "./index.scss";
+
 const App = () => {
   const [count, setCount] = useState(0);
   return (
