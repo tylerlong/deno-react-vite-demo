@@ -1,6 +1,7 @@
 {
   "imports": {
     "@deno/vite-plugin": "npm:@deno/vite-plugin@^1.0.2",
+    "@types/react": "npm:@types/react@^19.0.2",
     "@vitejs/plugin-react": "npm:@vitejs/plugin-react@^4.3.4",
     "antd": "npm:antd@^5.22.5",
     "react": "npm:react@18.3.1",
@@ -8,6 +9,7 @@
     "vite": "npm:vite@^6.0.3"
   },
   "compilerOptions": {
-    "lib": ["dom"]
+    "lib": ["dom"],
+    "jsx": "react-jsx"
   }
 }
