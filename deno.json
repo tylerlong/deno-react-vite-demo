@@ -1,4 +1,7 @@
 {
+  "tasks": {
+    "serve": "deno run -A --node-modules-dir=auto npm:vite"
+  },
   "imports": {
     "@deno/vite-plugin": "npm:@deno/vite-plugin@^1.0.2",
     "@types/react": "npm:@types/react@^19.0.2",
