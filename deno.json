@@ -7,6 +7,7 @@
     "@types/react": "npm:@types/react@^19.0.2",
     "@vitejs/plugin-react": "npm:@vitejs/plugin-react@^4.3.4",
     "antd": "npm:antd@^5.22.5",
+    "markplus-engine": "npm:markplus-engine@^0.1.4",
     "react": "npm:react@18.3.1",
     "react-dom": "npm:react-dom@18.3.1",
     "sass-embedded": "npm:sass-embedded@^1.83.0",
