@@ -8,7 +8,7 @@ const App = () => {
   const [count, setCount] = useState(0);
   useEffect(() => {
     const main = async () => {
-      const html = await mde.render("# Hello world!");
+      const html = await mde.render("Hello world!\n```flowchart\nA -> B\n```");
       console.log(html);
     };
     main();

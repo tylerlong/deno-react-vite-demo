@@ -5,7 +5,7 @@
     "npm:@types/react@^19.0.2": "19.0.2",
     "npm:@vitejs/plugin-react@^4.3.4": "4.3.4_vite@6.0.3_@babel+core@7.26.0",
     "npm:antd@^5.22.5": "5.22.5_react@18.3.1_react-dom@18.3.1__react@18.3.1_dayjs@1.11.13",
-    "npm:markplus-engine@~0.1.4": "0.1.4_markdown-it@14.1.0",
+    "npm:markplus-engine@~0.1.9": "0.1.9_markdown-it@14.1.0",
     "npm:react-dom@18.3.1": "18.3.1_react@18.3.1",
     "npm:react@18.3.1": "18.3.1",
     "npm:sass-embedded@^1.83.0": "1.83.0",
@@ -848,8 +848,8 @@
         "uc.micro"
       ]
     },
-    "markplus-charts@0.2.0": {
-      "integrity": "sha512-aVUs9O4aeO6BkelMRpHWUvCnuhNemk1BwMvBxJXSLb2pEy8G55tnpRI2FK8s83uLGJSv039IgKBzd+39B0hghA==",
+    "markplus-charts@0.2.4": {
+      "integrity": "sha512-nfj8lbptl63DcbhjPR/lhOHK/DyejAQqD/Do4IqOjuPBU2QDHmLNYp7Z49ZEYKfh9/UttHOSTXuOq59l5GQl4Q==",
       "dependencies": [
         "chevrotain",
         "elkjs",
@@ -857,8 +857,8 @@
         "web-worker"
       ]
     },
-    "markplus-engine@0.1.4_markdown-it@14.1.0": {
-      "integrity": "sha512-dOwLowuQ8y/1EwLz4fARd0yIQhD1BwWwWQsHZ2Gqm8ViBCCHTjKUsIE1mwWxRLG5XdnVyF+1FfD9gkizmqpigQ==",
+    "markplus-engine@0.1.9_markdown-it@14.1.0": {
+      "integrity": "sha512-89wJrJYBk+u+ZviRCZzZGRNr8l8bQ2DrzoxAQRY4bt2c9O3KKn7n2W9HlqGNzRCzk2Ah5Vx+3NjR0dANEasDXw==",
       "dependencies": [
         "@sindresorhus/slugify",
         "highlight.js",
@@ -1523,7 +1523,7 @@
       "npm:@types/react@^19.0.2",
       "npm:@vitejs/plugin-react@^4.3.4",
       "npm:antd@^5.22.5",
-      "npm:markplus-engine@~0.1.4",
+      "npm:markplus-engine@~0.1.9",
       "npm:react-dom@18.3.1",
       "npm:react@18.3.1",
       "npm:sass-embedded@^1.83.0",
